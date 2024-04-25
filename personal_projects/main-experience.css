@@ -1,0 +1,106 @@
+.my-experience__section {
+  background-color: black;
+  width: 1440px;
+  height: 956px;
+  padding: 6px 80px 60px 80px;
+}
+
+.my-experience__container {
+  width: 1280px;
+  height: 836px;
+  padding: 0px 32px 0px 32px;
+  gap: 20px;
+}
+
+.my-experience__title {
+  width: 1216px;
+  height: 96px;
+  padding: 20px 0px 20px 0px;
+  gap: 16px;
+  justify-content: center;
+}
+
+.my-experience__title p{
+  height: 56px;
+  font-size: 48px;
+  line-height: 56px;
+  color: white;
+}
+
+.title__my {
+  width: 72px;
+  font-weight: 400;
+}
+
+.title__experience {
+  width: 272px;
+  font-weight: 800;
+}
+
+.my-experience__experience {
+  width: 1216px;
+  height: 720px;
+  padding: 40px 24px 40px 24px;
+  gap: 32px;
+}
+
+.my-experience__experience1, .my-experience__experience2, .my-experience__experience3 {
+  width: 1168px;
+  height: 192px;
+  border-radius: 10px;
+  border-width: 1px;
+  padding: 30px 24px 30px 24px;
+  gap: 28px;
+  border-color: #71717A;
+}
+
+.experience__frame1, .experience__frame2, .experience__frame3{
+  width: 1120px;
+  height: 32px;
+  justify-content: space-between;
+}
+
+.frame1-1, .frame2-1, .frame3-1 {
+  width: 1018px;
+  height: 32px;
+  gap: 30px;
+}
+
+.experience__icon1, .experience__icon2, .experience__icon3 {
+  width: 32px;
+  height: 32px;
+  margin: 16px
+}
+
+.experience__title1, .experience__title2, .experience__title3 {
+  width: 500px;
+  height: 28px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  align-items: center;
+  color: white;
+}
+
+.experience__date1, .experience__date2, .experience__date3 {
+  width: 200px;
+  height: 20px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  align-items: center;
+  color: white;
+}
+
+.experience__explanation1, .experience__explanation2, .experience__explanation3 {
+  width: 1120px;
+  height: 72px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #D4D4D8;
+  display: block;
+  margin-top: 50px;
+  margin-left: 16px;
+}

@@ -1,0 +1,128 @@
+.hero__section {
+  width: 1440px;
+  height: 750px;
+  padding: 60px 80px 60px 80px
+}
+
+.hero__section__container{
+  width: 1280px;
+  height: 630px;
+  justify-content: space-between;
+  padding: 0px 32px 0px 32px;
+}
+
+.container__banner__text {
+  width: 600px;
+  height: 376px;
+  padding: 20px 0px 20px 0px;
+  gap: 48px;
+}
+
+.banner__frame47 {
+  width: 600px;
+  height: 336px;
+  gap: 32px;
+}
+
+.banner__frame46 {
+  width: 600px;
+  height: 208px;
+  gap: 20px;
+  font-size: 48px;
+  line-height: 56px;
+}
+
+.banner__frame43 {
+  width: 538px;
+  height: 56px;
+  gap: 16px;
+}
+
+.frame43__greetings {
+  width: 256px;
+  height: 56px;
+  font-weight: 400;
+}
+
+.frame43__name {
+  width: 292px;
+  height: 56px;
+  font-weight: 800;
+}
+
+.banner__frame44 {
+  width: 489px;
+  height: 56px;
+  gap: 16px;
+}
+
+.frame44__job1 {
+  width: 221px;
+  height: 56px;
+  font-weight: 800;
+}
+
+.frame44__job2 {
+  width: 252px;
+  height: 56px;
+  border-radius: 3px;
+  font-weight: 800;
+}
+
+.banner__frame45 {
+  width: 351px;
+  height: 56px;
+  gap: 16px;
+}
+
+.frame45__based {
+  width: 199px;
+  height: 56px;
+  font-weight: 400;
+}
+
+.frame45__nation {
+  width: 199px;
+  height: 56px;
+  font-weight: 800;
+}
+
+.banner__info {
+  width: 600px;
+  height: 96px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 2%;
+  margin-top: 100px;
+  color: #71717A;
+}
+
+.container__banner__img {
+  width: 630px;
+  height: 630px;
+}
+
+.container__banner__button{
+  width: 320px;
+  height: 64px;
+  padding: 4px 0px 4px 0px;
+  gap: 32px;
+  float: left;
+  bottom: 50px;
+}
+
+.container__banner__button > button {
+  width: 56px;
+  height: 56px;
+  border-radius: 4px;
+  border-width: 2px;
+  padding: 16px;
+  gap: 8px;
+  background-color: white;
+  width: 56px;
+  height: 56px;
+  box-shadow: none;
+  
+}
+
