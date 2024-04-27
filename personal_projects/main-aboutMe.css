@@ -1,0 +1,52 @@
+.about-me__section {
+  width: 1440px;
+  height: 712.28px;
+  padding: 60px 80px 60px 80px
+}
+
+.about-me__container {
+  width: 1280px;
+  height: 592.28px;
+  justify-content: space-between;
+  padding: 0px 32px 0px 32px;
+}
+
+.about-me__img {
+  width: 518.36px;
+  height: 592.28px;
+}
+
+.about-me__woman {
+  
+}
+.about-me__hair {
+  width: 235.4px;
+  height: 277.86px;
+  margin-top: 43.44px;
+  margin-left: 194.61px;
+  z-index: 2;
+  
+}
+
+.about-me__body {
+  width: 349.06px;
+  height: 554.69px;
+  margin-top: 37.59px;
+  margin-left: 116.76px;
+  position: relative;
+  bottom: 330px;
+  z-index: 3;
+  
+  
+}
+
+.about-me__vector {
+  width:518.36px;
+  height: 518.36px;
+  margin-left: 32px;
+  border-width: 4px;
+  z-index: 1;
+
+  
+
+}
